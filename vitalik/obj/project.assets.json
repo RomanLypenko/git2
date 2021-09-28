@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Рома\\source\\repos\\vitalik\\vitalik\\vitalik.csproj",
+      "projectUniqueName": "C:\\Users\\Рома\\Source\\Repos\\RomanLypenko\\git2\\vitalik\\vitalik.csproj",
       "projectName": "vitalik",
-      "projectPath": "C:\\Users\\Рома\\source\\repos\\vitalik\\vitalik\\vitalik.csproj",
+      "projectPath": "C:\\Users\\Рома\\Source\\Repos\\RomanLypenko\\git2\\vitalik\\vitalik.csproj",
       "packagesPath": "C:\\Users\\Рома\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Рома\\source\\repos\\vitalik\\vitalik\\obj\\",
+      "outputPath": "C:\\Users\\Рома\\Source\\Repos\\RomanLypenko\\git2\\vitalik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
